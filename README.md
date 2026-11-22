@@ -23,3 +23,6 @@ Pixel-Studio ist ein einfaches Bildbearbeitungsprogramm
 - Einheiten: px, cm, mm
 
 - rückgängig / wiederholen
+
+
+erstellt mit Gemini Neon
