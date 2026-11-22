@@ -3,6 +3,14 @@ a lightly image editor
 
 Pixel-Studio ist ein einfaches Bildbearbeitungsprogramm
 
+![pixelstudio_bild.png](pixelstudio_bild.png)
+![pixelstudio_bild2.png](pixelstudio_bild2.png)
+![pixelstudio_bild3.png](pixelstudio_bild3.png)
+![pixelstudio_bild4.png](pixelstudio_bild4.png)
+![pixelstudio_bild5.png](pixelstudio_bild5.png)
+
+
+
 ## Umfang:
 
 - Öffnen / Speichern
